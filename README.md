@@ -1,3 +1,3 @@
 # mongodb-nodejs-vagrant
 
-test2
+merge test
