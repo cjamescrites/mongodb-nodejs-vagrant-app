@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/env":{"guestpath":"/home/vagrant/env","hostpath":"C:/Users/cody9/nology/post-course/post-course-startercode/env","disabled":false,"__vagrantfile":true},"/home/vagrant/app/":{"guestpath":"/home/vagrant/app","hostpath":"C:/Users/cody9/nology/post-course/post-course-startercode/app","disabled":false,"__vagrantfile":true}}}
