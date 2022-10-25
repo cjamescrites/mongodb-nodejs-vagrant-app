@@ -1,5 +1,5 @@
 Vagrant.configure("2") do |config|
-    # Provisiing MongoDB
+    # Provisioning MongoDB
     config.vm.define "mongodb" do |mongo|
       mongo.vm.box = "generic/ubuntu2010"
       mongo.vm.network "private_network", ip: "192.168.56.20"
