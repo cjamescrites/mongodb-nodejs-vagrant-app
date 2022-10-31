@@ -1,6 +1,6 @@
 # MongoDB Vagrant App
 
-## Application uses Vagrant to create two virtual machine environements for NodeJS and MongoDB. 
+## Application uses Vagrant and bash scripts to create two virtual machine environements for NodeJS and MongoDB. 
 
 ## Pre-requisites for the Application
 - Vagrant
